@@ -60,6 +60,8 @@ az deployment group show \
 ```
 
 ## Verification Screenshots
-- **deployment-success.png** — ARM deployment showing `provisioningState: Succeeded`
-- **deployment-outputs.png** — Public IP and FQDN outputs from the deployment
-- **rdp-connectivity-proof.png** — RDP connection to the VM desktop (logged in as `azureuser`)
+![Deployment Success](deployment-success.png)
+
+![Deployment Outputs](deployment-outputs.png)
+
+![RDP Connectivity Proof](rdp-connectivity-proof.png)
